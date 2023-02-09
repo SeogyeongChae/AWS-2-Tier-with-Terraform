@@ -10,7 +10,7 @@
 
 ----
 ## 1. Architecture
-
+![aws 2-tier architecture](https://user-images.githubusercontent.com/110655818/217760358-50686144-6284-4d01-adc7-a40b7d000d92.jpg)
 
 ----
 ## 2. Reference
