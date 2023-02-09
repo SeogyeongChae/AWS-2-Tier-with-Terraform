@@ -10,7 +10,6 @@
 
 ----
 ## 1. Architecture
-![image](https://user-images.githubusercontent.com/110655818/217742009-be2b399a-9de9-4ad1-939b-fb5b2d9cf059.png)
 
 ----
 ## 2. Reference
